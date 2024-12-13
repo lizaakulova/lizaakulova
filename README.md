@@ -12,7 +12,7 @@ I’m a music student at an institute where I spend most of my time studying the
 - 🔮 Experimenting with AI-driven music recommendation systems.  
 - 🎨 Building clean, modern web interfaces that balance style and usability.
 
-**My Goals**  
+**What I am interesing in**  
 - 🌐 Bridge the gap between art and science by integrating software development, design, and music.  
 - 🧠 Learn more about machine learning frameworks and techniques, applying them to creative projects.  
 - 🤝 Contribute to open-source communities, share knowledge, and collaborate on tools that empower musicians and developers alike.
